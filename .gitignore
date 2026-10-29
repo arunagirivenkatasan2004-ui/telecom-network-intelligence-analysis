@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local data files - review data sharing permissions before committing
+data/*.csv
+data/*.xlsx
+data/*.parquet
